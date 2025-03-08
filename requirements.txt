@@ -1,0 +1,7 @@
+streamlit>=1.22.0
+git+https://github.com/openai/whisper.git
+torch>=2.0.0
+numpy>=1.22.0
+python-docx>=0.8.11
+reportlab>=3.6.12
+pyannote.audio>=3.1
